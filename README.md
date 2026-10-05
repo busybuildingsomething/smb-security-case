@@ -4,6 +4,13 @@ A mock GRC engagement for a fictional six-person hair salon in Celina, TX.
 
 > **This business is fictional.** Luma Hair Studio does not exist. No real systems were tested and no real data appears in this repository. The scenario is modeled on the kinds of independent businesses opening in the area, and all findings are constructed to be realistic for a business of this size.
 
+**At A Glance**
+Client |	Fictional independent hair salon, six people, no IT staff
+Framework |	CIS Controls v8.1 IG1, structured by NIST CSF 2.0
+Compliance |	PCI DSS in scope; SAQ determination is a finding
+Deliverables |	Control matrix, risk register, assessment report
+Focus |	Policy, process, and access — not technical testing
+
 **Deliverables:** 
 
 **Status:** In progress. Business profile and scope complete. Control matrix in development.
