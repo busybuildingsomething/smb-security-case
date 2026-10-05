@@ -1,10 +1,12 @@
 # Small Business Security Assessment — Luma Hair Studio
 
-A mock GRC engagement for a fictional five-person hair salon in Celina, TX.
+A mock GRC engagement for a fictional six-person hair salon in Celina, TX.
 
 > **This business is fictional.** Luma Hair Studio does not exist. No real systems were tested and no real data appears in this repository. The scenario is modeled on the kinds of independent businesses opening in the area, and all findings are constructed to be realistic for a business of this size.
 
 **Deliverables:** [Control Matrix](#) · [Risk Register](#) · [Assessment Report](#)
+
+**Status:** In progress. Business profile and scope complete. Control matrix in development.
 
 ---
 
